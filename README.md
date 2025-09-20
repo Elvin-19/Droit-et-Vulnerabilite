@@ -1,2 +1,7 @@
 # Droit-et-Vulnerabilite
-Rapport de projet de recherche Master 1
+Projet de recherche Master 1
+
+Co-autheur :
+  - Luca POURCEAU
+  - Baptiste LE PIOUF
+  - Elvin MAUBERT
